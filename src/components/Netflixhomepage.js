@@ -93,7 +93,7 @@ export default class Netflixhomepage extends Component {
 
 
 
-                      <div class="row pt-4 position-relative thick bg-black">
+                      <div class="row mx-auto pt-4 position-relative thick bg-black">
                             <div class="tv-image position-relative col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
                               <img src={mobile} class="card-img  position-absolute" alt=""/>
                               <div class=" box position-absolute">
@@ -113,7 +113,7 @@ export default class Netflixhomepage extends Component {
                             </div>
 
 
-                            <div class="row pt-4 position-relative thick bg-black">
+                            <div class="row mx-auto pt-4 position-relative thick bg-black">
                              
                              <div class="tv-text text-white pt-4 col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
                                  <h1 class="card-title my-3">Watch everywhere.</h1>
@@ -130,7 +130,7 @@ export default class Netflixhomepage extends Component {
 
 
 
-                    <div class="row pt-4 position-relative thick bg-black">
+                    <div class="row mx-auto pt-4 position-relative thick bg-black">
                             <div class="tv-image position-relative col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
                               <img src={kids} class="card-img  position-absolute" alt="image"/>                             
                             </div>
